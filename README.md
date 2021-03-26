@@ -16,7 +16,7 @@ Below there's a list of all the prerequisites the project needs before running:
 
 ### Installing
 
-After installing Node.js, you can use either `npm` or `yarn` to install dependencies. Just run
+After installing everything needed, you can use either `npm` or `yarn` to install the dependencies. Just run
 
 ```
 npm i
@@ -28,7 +28,7 @@ or
 yarn install
 ```
 
-on root directory to install all dependencies and you are good to go!
+on root directory to install it all and you are good to go!
 
 ### Setting up environment variables
 
