@@ -1,0 +1,9 @@
+# NodeJS
+node_modules
+
+# Environment
+.env
+
+# Dependency files
+package-lock.json
+yarn.lock
