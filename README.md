@@ -34,7 +34,7 @@ on root directory to install it all and you are good to go!
 
 The default values will usually be enough for a common test, but if you need to set it up to work with another host, you will need some environment variables.
 
-For this, you have to set a `.env` file on the root of the project having, at least, this parameters
+For this, you have to set a `.env` file at the root of the project having, at least, this parameters
 
 ```
 REDIS_PORT=...
