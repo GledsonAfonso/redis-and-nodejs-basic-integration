@@ -56,7 +56,7 @@ Where:
 
 Before doing anything, run `docker-compose up` at the root of the project. This will set up a Redis server and run it for you.
 
-With the server setup out of the way, now you can run the tests. We use [Jest][jest-link] for testing, which is specified in the project dependency file. All you need to do to run it is type:
+With the server setup out of the way, now you can run the tests. We use [Jest][jest-link] for testing, which is specified in the project dependency file. All you need to do is type:
 
 ```
 npm test
