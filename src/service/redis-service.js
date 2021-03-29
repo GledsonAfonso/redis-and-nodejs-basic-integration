@@ -11,15 +11,15 @@ const connect = () => {
   let config_options = {};
   
   if (redisPort) {
-    config_options.port = redis_port;
+    config_options.port = redisPort;
   }
 
   if (redisHost) {
-    config_options.host = redis_host;
+    config_options.host = redisHost;
   }
 
   if (redisPassword) {
-    config_options.password = redis_password;
+    config_options.password = redisPassword;
   }
 
   client = redis.createClient();
